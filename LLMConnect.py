@@ -103,7 +103,6 @@ class ChatModel:
         gets the json output from the response
         Only possible if the response is a json object
         :param response:
-        :return:
         """
         try:
 
